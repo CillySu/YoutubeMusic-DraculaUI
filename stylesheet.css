@@ -1,0 +1,42 @@
+/**
+ * Custom css for page
+*/
+
+html, body { background: #282a36 !important; }
+
+html, ytmusic-detail-header-renderer
+  {
+    background-color: #282a36 !important;
+  }
+
+ytmusic-nav-bar
+  {
+    background: #44475a !important;
+  }
+
+ ytmusic-player-bar
+  {
+    background: #44475a !important;
+  }
+
+  html:not(.style-scope)
+  {
+    --ytmusic-text-primary: #bd93f9 !important;
+    --ytmusic-text-secondary: #bd93f9 !important;
+    --ytmusic-brand-background-solid: #303030 !important;
+    --ytmusic-menu-item-icon_-_fill: #ff5555 !important;
+    --ytmusic-inactive-tab: #d4d4d4 !important;
+    --ytmusic-color-youtubered: #ff5555 !important;
+    --ytmusic-icon-inactive: #6272a4 !important;
+    --ytmusic-color-white1-alpha10: #44475a !important;
+    --ytmusic-subtitle-2_-_color: #d4d4d4 !important;
+    --ytmusic-divider: #bd93f9 !important;
+    --ytmusic-detail-header: #44475a !important;
+    --yt-endpoint-color: #ff79c6 !important;
+    --yt-endpoint-visited-color: #6272a4 !important;
+    --yt-spec-call-to-action: #8be9fd !important;
+  }
+
+ ytmusic-player-page {
+     background-color: #282a36 !important;
+ }
